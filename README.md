@@ -1,3 +1,5 @@
+# Inspiration :
+   https://www.figma.com/file/Wk3KzijDdUMBwKx7cDZmwG/Podda-(Community)-(Community)?type=design&node-id=2-2&t=x4QTp4sTODvrGSSj-0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
